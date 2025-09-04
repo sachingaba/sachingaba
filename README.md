@@ -22,7 +22,7 @@
 
 - 💼 I'm currently working on: **💻 Developin a new framework for selenum testing for my project named Intercell**
 - 🌱 I'm currently learning: **📚 Exploring Gen. AI tools to boost test creation**
-- 💬 Ask me about: **💡 ISTQB Certifcation , API , Selenium  , JIRA .**
+- 💬 Ask me about: **💡 ISTQB Certifcation , API , Selenium  , JIRA , Scrum Master.**
 - ⚡ Fun fact: **🎢 I got 2 promotions in a year for working with passion**
 - 📂 Portfolio: **<a href="https://www.linkedin.com/in/sachin-gaba/" target="_blank">https://www.linkedin.com/in/sachin-gaba/</a>**
 
