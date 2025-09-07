@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sachin-gaba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="Iamsachingaba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate  ISTQB certified Agile Level -Automation tester with 10 years of experience and been in industries like Shipping , Ed tech and finance.
+ **<h3 align="left">🚀 Passionate  ISTQB certified Agile Level -Automation tester with 10 years of experience and been in industries like Shipping, Ed tech and finance.
 </h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
