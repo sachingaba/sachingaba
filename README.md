@@ -20,7 +20,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developin a new framework for selenum testing for my project named Intercell**
+- 💼 I'm currently working on: **💻 Developin a new framework for selenum testing for my project named Intercell.**
 - 🌱 I'm currently learning: **📚 Exploring Gen. AI tools to boost test creation**
 - 💬 Ask me about: **💡 ISTQB Certifcation , API , Selenium  , JIRA , Scrum Master.**
 - ⚡ Fun fact: **🎢 I got 2 promotions in a year for working with passion**
